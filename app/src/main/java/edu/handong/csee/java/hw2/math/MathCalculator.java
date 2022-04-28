@@ -19,7 +19,7 @@ public void setName(String args){
      */ 
 public String getName(){
     return name;
-}
+}    
     /** 
      * This is getMax Method 
      * @param args[2]
