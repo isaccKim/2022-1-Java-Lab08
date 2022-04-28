@@ -3,14 +3,14 @@ package  edu.handong.csee.java.hw2.math;
      * This is MathCalculator class 
      */ 
 public class MathCalculator{
-
+               
     private String name;
-    /** 
+    /**         
      * This is setName Method
      * @param args 
      */ 
 public void setName(String args){
-    name = args;
+    name = args;        
 }
     /** 
      * This is getName  Method 
