@@ -11,7 +11,7 @@ public class MathCalculator{
      */ 
 public void setName(String args){
     name = args;
-}    
+}       
     /** 
      * This is getName  Method 
      * @param args
