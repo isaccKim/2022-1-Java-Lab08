@@ -9,7 +9,7 @@ public class MathCalculator{
      * This is setName Method
      * @param args 
      */ 
-public void setName(String args){
+public void setName(String args){      
     name = args;        
 }     
     /** 
