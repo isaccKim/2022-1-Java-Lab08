@@ -4,7 +4,7 @@ package  edu.handong.csee.java.hw2.math;
      */ 
 public class MathCalculator{
                
-    private String name;
+    private String name;        
     /**         
      * This is setName Method
      * @param args 
