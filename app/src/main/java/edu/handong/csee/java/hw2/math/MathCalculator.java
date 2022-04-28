@@ -3,15 +3,15 @@ package  edu.handong.csee.java.hw2.math;
      * This is MathCalculator class 
      */ 
 public class MathCalculator{
-               
-    private String name;        
-    /**         
+
+    private String name;
+    /** 
      * This is setName Method
      * @param args 
      */ 
-public void setName(String args){      
-    name = args;        
-}     
+public void setName(String args){
+    name = args;
+}
     /** 
      * This is getName  Method 
      * @param args
@@ -21,7 +21,7 @@ public String getName(){
     return name;
 }
     /** 
-     * This is getMax Method  
+     * This is getMax Method 
      * @param args[2]
      * @param args[3]
      * @return
